@@ -31,7 +31,7 @@ To generate a list of tags (custom elements used by your project), install the [
 
 ### Screenshot
 
-`1440x804` is the recommended dimensions for screenshots. Use your best judgment. 1136px is the absolute minimum width for high density displays. Keep the file size below 350 KB. Add one screenshot `/images/screenshots` with the title of your project. Use `png`, `jpg`, or `webp`.
+`1440x804` is the recommended dimensions for screenshots. Use your best judgment. 1136px is the absolute minimum width for high density displays. Keep the file size below 350 KB. Add one screenshot `/images/screenshots` with the title of your project. Use `png`, `jpg`,`img` or `webp`.
 
 ## Running Locally
 
